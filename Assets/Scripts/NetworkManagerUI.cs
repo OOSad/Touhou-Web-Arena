@@ -1,6 +1,7 @@
 using TMPro;
-using Unity.Netcode;
-using Unity.Netcode.Transports.UTP;
+//using Unity.Netcode;
+//using Unity.Netcode.Transports.UTP;
+using FishNet.Transporting.Tugboat;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -10,6 +11,8 @@ public class NetworkManagerUI : MonoBehaviour
     [SerializeField] private Button hostButton;
     [SerializeField] private Button clientButton;
     [SerializeField] private TextMeshProUGUI playerList;
+
+    public Tugboat tugboat;
 
     private void Update()
     {
@@ -21,14 +24,14 @@ public class NetworkManagerUI : MonoBehaviour
         serverButton.onClick.AddListener(() =>
         {
             //NetworkManager.Singleton.GetComponent<UnityTransport>().SetConnectionData("ltd-appendix.gl.at.ply.gg", (ushort)40476);
-            NetworkManager.Singleton.StartServer();
+            //NetworkManager.Singleton.StartServer();
         });
 
         clientButton.onClick.AddListener(() =>
         {
             //NetworkManager.Singleton.GetComponent<UnityTransport>().SetConnectionData("ltd-appendix.gl.at.ply.gg", (ushort)40476);
-            NetworkManager.Singleton.StartClient();
-            playerList.text = NetworkManager.Singleton.ConnectedClients.ToString();
+            //NetworkManager.Singleton.StartClient();
+            //playerList.text = NetworkManager.Singleton.ConnectedClients.ToString();
         });
     }
     
