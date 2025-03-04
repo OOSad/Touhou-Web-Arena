@@ -1,6 +1,6 @@
 using TMPro;
-//using Unity.Netcode;
-//using Unity.Netcode.Transports.UTP;
+using Unity.Netcode;
+using Unity.Netcode.Transports.UTP;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -16,7 +16,7 @@ public class NetworkManagerUI : MonoBehaviour
         
     }
 
-    /*private void Awake()
+     private void Awake()
     {
         serverButton.onClick.AddListener(() =>
         {
@@ -31,5 +31,5 @@ public class NetworkManagerUI : MonoBehaviour
             playerList.text = NetworkManager.Singleton.ConnectedClients.ToString();
         });
     }
-    */
+    
 }
