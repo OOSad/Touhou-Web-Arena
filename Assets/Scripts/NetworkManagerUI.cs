@@ -1,3 +1,4 @@
+using TMPro;
 using Unity.Netcode;
 using Unity.Netcode.Transports.UTP;
 using UnityEngine;
@@ -8,11 +9,11 @@ public class NetworkManagerUI : MonoBehaviour
     [SerializeField] private Button serverButton;
     [SerializeField] private Button hostButton;
     [SerializeField] private Button clientButton;
+    [SerializeField] private TextMeshProUGUI playerList;
 
     private void Update()
     {
-        Debug.Log(NetworkManager.Singleton.ConnectedClientsList[0]);
-        Debug.Log(NetworkManager.Singleton.ConnectedClientsList[1]);
+        playerList.text = NetworkManager.Singleton.ConnectedClientsList.ToString();
     }
 
     private void Awake()
