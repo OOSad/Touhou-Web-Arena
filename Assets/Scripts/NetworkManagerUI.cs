@@ -13,7 +13,7 @@ public class NetworkManagerUI : MonoBehaviour
 
     private void Update()
     {
-        playerList.text = NetworkManager.Singleton.ConnectedClientsList.ToString();
+        
     }
 
     private void Awake()
@@ -28,6 +28,7 @@ public class NetworkManagerUI : MonoBehaviour
         {
             //NetworkManager.Singleton.GetComponent<UnityTransport>().SetConnectionData("ltd-appendix.gl.at.ply.gg", (ushort)40476);
             NetworkManager.Singleton.StartClient();
+            playerList.text = NetworkManager.Singleton.ConnectedClients.ToString();
         });
     }
 }
