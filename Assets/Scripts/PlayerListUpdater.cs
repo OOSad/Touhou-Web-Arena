@@ -1,3 +1,4 @@
+using FishNet.Object.Synchronizing;
 using FishNet.Transporting.Bayou;
 using TMPro;
 using UnityEngine;
@@ -17,15 +18,12 @@ public class PlayerListUpdater : MonoBehaviour
 
     void TaskOnClick()
     {
-        for (int i = 0; i < bayou.NetworkManager.ClientManager.Clients.Count; i++)
-        {
-            playerList.text = bayou.NetworkManager.ClientManager.Clients[i].ToString();
-        }
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        playerList.text = bayou.NetworkManager.ServerManager.Clients.Count.ToString();
     }
 }
