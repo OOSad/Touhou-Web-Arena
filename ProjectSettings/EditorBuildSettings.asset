@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NowMatchingScreen.unity
     guid: 93fe5f00e3995d44b9eb58707d5f0123
+  - enabled: 1
+    path: Assets/Scenes/StageScreen.unity
+    guid: fbe39b167513f24488642068fab2a2f6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
