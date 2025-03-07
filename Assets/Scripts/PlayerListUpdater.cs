@@ -12,12 +12,6 @@ public class PlayerListUpdater : NetworkBehaviour
     public TextMeshProUGUI playerList;
     public readonly SyncVar<int> playerNumber = new SyncVar<int>(); 
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
-    }
-
     // Update is called once per frame
     void Update()
     {
