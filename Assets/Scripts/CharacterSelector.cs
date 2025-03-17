@@ -27,7 +27,7 @@ public class CharacterSelector : NetworkBehaviour
     public void ReimuButtonOnClick()
     {
         //Debug.Log("Player One ID: " + NetworkConnection);
-        Debug.Log("Player Two ID: " + ClientManager.Connection.ClientId);
+        Debug.Log("Player Two ID: " + LocalConnection);
 
 
         if (LocalConnection.ClientId == matchmaker.playerOne.ClientManager.Connection.ClientId)
