@@ -29,7 +29,6 @@ public class PlayerListUpdater : NetworkBehaviour
         for (int i = 0; i < listOfPlayers.Count; i++)
         {
             physicalListOfPlayers.text += listOfPlayers[i];
-            //Debug.Log(listOfPlayers[i]);
         }
     }
 
@@ -37,15 +36,12 @@ public class PlayerListUpdater : NetworkBehaviour
     {
         base.OnStartClient();
         AddPlayerUsername(clientInfo.playerName);
-        Debug.Log("Started client.");
-
     }
 
     public void CancelButtonOnClick()
     {
         base.OnStopClient();
         RemovePlayerUsername(clientInfo.playerName);
-        Debug.Log("Stopped client.");
     }
 
     [ServerRpc(RequireOwnership = false)]
@@ -55,13 +51,11 @@ public class PlayerListUpdater : NetworkBehaviour
         {
             listOfPlayers.Add(username);
         }
-        Debug.Log("Wrote to player list.");
     }
 
     [ServerRpc(RequireOwnership = false)]
     public void RemovePlayerUsername(string username)
     {
         listOfPlayers.Remove(username);
-        Debug.Log("Removed from player list.");
     }
 }
