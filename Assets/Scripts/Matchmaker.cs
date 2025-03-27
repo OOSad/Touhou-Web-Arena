@@ -1,49 +1,48 @@
 using FishNet.Connection;
-using FishNet.Managing;
-using FishNet.Object;
-using FishNet.Object.Synchronizing;
-using UnityEngine;
-using UnityEngine.UI;
-using System.Collections.Generic;
-using UnityEngine.SceneManagement;
 using FishNet.Managing.Scened;
-using Unity.VisualScripting;
+using FishNet.Object;
+using UnityEngine;
 
-public class Matchmaker : NetworkBehaviour
+public class ClientConnectionTracker : NetworkBehaviour
 {
-    public Button queueButton;
-    public NetworkManager availablePlayer;
-    public List<NetworkManager> availablePlayerPool = new List<NetworkManager>();
-    public NetworkManager playerOne;
-    public NetworkManager playerTwo;
-    public SceneLoadData characterSelectScene = new SceneLoadData("CharacterSelectScene");
+    [SerializeField] private string _sceneToLoad;
+    private bool _sceneLoaded;
 
-    private void Update()
+    public override void OnStartServer()
     {
-        if (playerOne && playerTwo)
-        {
-            NetworkManager.SceneManager.LoadGlobalScenes(characterSelectScene);
-        }
-    }
-    private void Awake()
-    {
-        queueButton.onClick.AddListener(QueueButtonOnClick);
+        base.OnStartServer();
+        NetworkManager.ServerManager.OnRemoteConnectionState += HandleConnectionChange;
     }
 
-    [ServerRpc(RequireOwnership = false)]
-    public void QueueButtonOnClick()
+    private void HandleConnectionChange(NetworkConnection conn, FishNet.Transporting.RemoteConnectionStateArgs args)
     {
-        availablePlayerPool.Add(availablePlayer);
+        CheckClientCountAndLoadScene();
+    }
 
-        availablePlayerPool.Sort();
+    private void CheckClientCountAndLoadScene()
+    {
+        int clientsCount = NetworkManager.ServerManager.Clients.Count;
 
-        if (availablePlayerPool.Count >= 2)
+        if (clientsCount == 2 && !_sceneLoaded)
         {
-            playerOne = availablePlayerPool[0];
-            playerTwo = availablePlayerPool[1];
-
-            availablePlayerPool.RemoveAt(0);
-            availablePlayerPool.RemoveAt(0);
+            LoadNewScene();
+            _sceneLoaded = true;
         }
+        else if (clientsCount < 2)
+        {
+            _sceneLoaded = false;
+        }
+    }
+
+    private void LoadNewScene()
+    {
+        SceneLoadData sceneLoadData = new SceneLoadData(_sceneToLoad);
+        NetworkManager.SceneManager.LoadGlobalScenes(sceneLoadData);
+    }
+
+    public override void OnStopServer()
+    {
+        base.OnStopServer();
+        NetworkManager.ServerManager.OnRemoteConnectionState -= HandleConnectionChange;
     }
 }
