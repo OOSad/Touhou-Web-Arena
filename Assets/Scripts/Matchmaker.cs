@@ -3,7 +3,7 @@ using FishNet.Managing.Scened;
 using FishNet.Object;
 using UnityEngine;
 
-public class ClientConnectionTracker : NetworkBehaviour
+public class Matchmaker : NetworkBehaviour
 {
     [SerializeField] private string _sceneToLoad;
     private bool _sceneLoaded;
