@@ -258,11 +258,17 @@ public class Matchmaker : NetworkBehaviour
         
         if (string.IsNullOrWhiteSpace(playerName))
         {
-            playerName = "Player" + UnityEngine.Random.Range(1000, 9999);
-            if (nameInputField != null)
-            {
-                nameInputField.text = playerName;
-            }
+            playerName = "Anonymous";
+        }
+        
+        // Add random number suffix to all player names
+        int randomNum = UnityEngine.Random.Range(1000, 9999);
+        playerName = playerName + "-" + randomNum;
+        
+        // Update the input field to show the name with number
+        if (nameInputField != null)
+        {
+            nameInputField.text = playerName;
         }
         
         // Request to queue from the server
