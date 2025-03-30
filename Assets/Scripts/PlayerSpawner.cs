@@ -68,10 +68,48 @@ public class PlayerSpawner : NetworkBehaviour
         }
     }
 
+    [ServerRpc(RequireOwnership = false)]
+    public void GetPlayerNumberServerRpc(ulong clientId, ServerRpcParams serverRpcParams = default)
+    {
+        // Get the requesting client's ID
+        ulong requestingClientId = serverRpcParams.Receive.SenderClientId;
+        
+        // Find the player number for this client
+        int playerNumber = 0;
+        if (clientPlayerMap.TryGetValue(clientId, out playerNumber))
+        {
+            // Found the player number, notify the client
+            NotifyPlayerNumberClientRpc(playerNumber, new ClientRpcParams
+            {
+                Send = new ClientRpcSendParams
+                {
+                    TargetClientIds = new ulong[] { requestingClientId }
+                }
+            });
+            
+            Debug.Log($"Server: Client {clientId} is Player {playerNumber}");
+        }
+        else
+        {
+            Debug.LogWarning($"Server: Could not find player number for client {clientId}");
+        }
+    }
+
     [ClientRpc]
     private void NotifyPlayerNumberClientRpc(int playerNumber, ClientRpcParams clientRpcParams = default)
     {
-        Debug.Log($"You are Player {playerNumber} in the gameplay scene");
+        Debug.Log($"Client: Received player number {playerNumber}");
+        
+        // Find all PlayerController instances belonging to this client using non-deprecated method
+        PlayerController[] controllers = Object.FindObjectsByType<PlayerController>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
+        foreach (PlayerController controller in controllers)
+        {
+            // Check if this controller belongs to the local player
+            if (controller.IsOwner)
+            {
+                controller.SetPlayerNumber(playerNumber);
+            }
+        }
     }
 
     private void HandleClientDisconnect(ulong clientId)
@@ -142,6 +180,7 @@ public class PlayerSpawner : NetworkBehaviour
             if (player2Object != null)
             {
                 spawnedPlayers[2] = player2Object;
+                Debug.Log($"Player 2 spawned at position: {player2Object.gameObject.transform.position}");
             }
         }
     }

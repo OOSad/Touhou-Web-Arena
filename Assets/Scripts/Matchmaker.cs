@@ -81,6 +81,8 @@ public class Matchmaker : NetworkBehaviour
         if (queueButton != null)
         {
             queueButton.onClick.AddListener(OnQueueButtonClicked);
+            // Initially disable the queue button until connected
+            queueButton.interactable = false;
         }
 
         if (cancelButton != null)
@@ -127,6 +129,14 @@ public class Matchmaker : NetworkBehaviour
 
         // Update the queue display initially
         UpdateQueueDisplay();
+        
+        // Enable the queue button now that we're connected
+        if (queueButton != null)
+        {
+            queueButton.interactable = true;
+        }
+        
+        Debug.Log("Network connection established - Queue button enabled");
     }
 
     public override void OnNetworkDespawn()
@@ -261,14 +271,18 @@ public class Matchmaker : NetworkBehaviour
             playerName = "Anonymous";
         }
         
-        // Add random number suffix to all player names
-        int randomNum = UnityEngine.Random.Range(1000, 9999);
-        playerName = playerName + "-" + randomNum;
-        
-        // Update the input field to show the name with number
-        if (nameInputField != null)
+        // Check if the name already contains a random number suffix
+        if (!playerName.Contains("-"))
         {
-            nameInputField.text = playerName;
+            // Only add random number if it doesn't already have one
+            int randomNum = UnityEngine.Random.Range(1000, 9999);
+            playerName = playerName + "-" + randomNum;
+            
+            // Update the input field to show the name with number
+            if (nameInputField != null)
+            {
+                nameInputField.text = playerName;
+            }
         }
         
         // Request to queue from the server
