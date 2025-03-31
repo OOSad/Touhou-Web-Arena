@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5846666865556876188}
   - component: {fileID: -8584930443305260289}
   - component: {fileID: -5551107541440425994}
+  - component: {fileID: -7846480265498913329}
   m_Layer: 0
   m_Name: KirisameMarisaCharacter
   m_TagString: Untagged
@@ -166,3 +167,30 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   moveSpeed: 5
   characterName: Kirisame Marisa
+  sharedTopBoundary: 4
+  sharedBottomBoundary: -4
+  p1LeftBoundary: -8
+  p1RightBoundary: -1
+  p2LeftBoundary: 1
+  p2RightBoundary: 8
+--- !u!114 &-7846480265498913329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2106110610320315759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f8beaf3366ebda4f9eae91b33d6092a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  bulletPrefab: {fileID: 2912167169531524009, guid: c1446d9dcec34954786afff8114bd255, type: 3}
+  bulletSpeed: 20
+  bulletSize: 0.7
+  bulletColor: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 1}
+  bulletsPerShot: 2
+  bulletSpread: 0.5
+  bulletSpacing: 0.8
+  fireRate: 0.05
