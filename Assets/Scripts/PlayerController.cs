@@ -7,6 +7,13 @@ public class PlayerController : NetworkBehaviour
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private string characterName;
     
+    // Movement state properties for animation control
+    public bool IsMovingLeft { get; private set; }
+    public bool IsMovingRight { get; private set; }
+    public bool IsMovingUp { get; private set; }
+    public bool IsMovingDown { get; private set; }
+    public bool IsMoving => IsMovingLeft || IsMovingRight || IsMovingUp || IsMovingDown;
+    
     // Flag to track if boundaries have been properly set
     private bool boundariesSet = false;
     
@@ -123,17 +130,31 @@ public class PlayerController : NetworkBehaviour
         float horizontal = 0f;
         float vertical = 0f;
         
+        // Reset movement state
+        IsMovingLeft = false;
+        IsMovingRight = false;
+        IsMovingUp = false;
+        IsMovingDown = false;
+        
         // Horizontal movement (left/right)
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.LeftArrow)) {
             horizontal = -1f;
-        else if (Input.GetKey(KeyCode.RightArrow))
+            IsMovingLeft = true;
+        }
+        else if (Input.GetKey(KeyCode.RightArrow)) {
             horizontal = 1f;
+            IsMovingRight = true;
+        }
             
         // Vertical movement (up/down)
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.UpArrow)) {
             vertical = 1f;
-        else if (Input.GetKey(KeyCode.DownArrow))
+            IsMovingUp = true;
+        }
+        else if (Input.GetKey(KeyCode.DownArrow)) {
             vertical = -1f;
+            IsMovingDown = true;
+        }
             
         // Add support for diagonal movement at normal speed
         if (horizontal != 0f && vertical != 0f)
@@ -144,8 +165,11 @@ public class PlayerController : NetworkBehaviour
             vertical *= diagonalFactor;
         }
 
+        // Check if left Shift is pressed to reduce speed by half
+        float focusModeMultiplier = Input.GetKey(KeyCode.LeftShift) ? 0.5f : 1.0f;
+
         // Calculate movement direction
-        Vector3 movement = new Vector3(horizontal, vertical, 0f) * moveSpeed * Time.deltaTime;
+        Vector3 movement = new Vector3(horizontal, vertical, 0f) * moveSpeed * focusModeMultiplier * Time.deltaTime;
 
         // Apply movement
         transform.position += movement;

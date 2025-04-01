@@ -1,0 +1,1620 @@
+fileFormatVersion: 2
+guid: 158ca4f8f3df8a647b3b0e67507e5484
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1612697836724872083
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_0
+  - first:
+      213: 8330877376287516029
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_1
+  - first:
+      213: 5892567288923437596
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_2
+  - first:
+      213: 8998825247256063945
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_3
+  - first:
+      213: -111856888752092638
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_4
+  - first:
+      213: -7203609235677780038
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_5
+  - first:
+      213: 1351520418425876082
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_6
+  - first:
+      213: 5853487480238311967
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_7
+  - first:
+      213: -4664244601201490544
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_8
+  - first:
+      213: 3763736402537977079
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_9
+  - first:
+      213: -7323502012525453618
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_10
+  - first:
+      213: 7441765785871117392
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_11
+  - first:
+      213: 8814620964856717034
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_12
+  - first:
+      213: -3865723895658924604
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_13
+  - first:
+      213: -6742712839755255992
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_14
+  - first:
+      213: -7602794286038578800
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_15
+  - first:
+      213: -1418841641033876850
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_16
+  - first:
+      213: 5645982668736511793
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_17
+  - first:
+      213: -6277042405066106928
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_18
+  - first:
+      213: 5569599223877555818
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_19
+  - first:
+      213: 244070560339472470
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_20
+  - first:
+      213: -9192532592971776042
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_21
+  - first:
+      213: -624633294245441410
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_22
+  - first:
+      213: 878122354637116572
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_23
+  - first:
+      213: -4874847928401318775
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_24
+  - first:
+      213: -1452654228311249853
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_25
+  - first:
+      213: -3812893179460913164
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_26
+  - first:
+      213: -8561119545906928835
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_27
+  - first:
+      213: -2905684828608509830
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_28
+  - first:
+      213: 8341838035718888587
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_29
+  - first:
+      213: -8382460601630581088
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_30
+  - first:
+      213: 5389306038704315031
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_31
+  - first:
+      213: -1202024562691828404
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_32
+  - first:
+      213: 1623471223688300551
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_33
+  - first:
+      213: -3374931754719580931
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_34
+  - first:
+      213: -2522573517616459069
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_35
+  - first:
+      213: -8422183550792246193
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_36
+  - first:
+      213: 7528284214034238575
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_37
+  - first:
+      213: -7733313321560004759
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_38
+  - first:
+      213: 6858349554070061743
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_39
+  - first:
+      213: 1549309628924866398
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_40
+  - first:
+      213: 7454010431834327116
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_41
+  - first:
+      213: -4042775077414171154
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_42
+  - first:
+      213: -2041097578641455727
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_43
+  - first:
+      213: -1736623888194532437
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_44
+  - first:
+      213: -7139830567224544952
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_45
+  - first:
+      213: -6631461825914013343
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_46
+  - first:
+      213: -2223435391936111404
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_47
+  - first:
+      213: -366120238660631962
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_48
+  - first:
+      213: 1516040951337395551
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_49
+  - first:
+      213: -8406870383522242390
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_50
+  - first:
+      213: 4246169339531999973
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_51
+  - first:
+      213: 983751200070083198
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_52
+  - first:
+      213: -8654489924683211908
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_53
+  - first:
+      213: -7820515905371824086
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_54
+  - first:
+      213: 5815419428190818365
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_55
+  - first:
+      213: 5882034808277850327
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_56
+  - first:
+      213: 7613232274242480132
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_57
+  - first:
+      213: -2265208487508764422
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_58
+  - first:
+      213: -5446802068046301267
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_59
+  - first:
+      213: -640051773991790045
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_60
+  - first:
+      213: 5851373009560238688
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_61
+  - first:
+      213: -6973011822928932313
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_62
+  - first:
+      213: -4504915640930929048
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_63
+  - first:
+      213: -6401161163557861106
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_64
+  - first:
+      213: 3019915992263367888
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_65
+  - first:
+      213: 3531581666614965884
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_66
+  - first:
+      213: 2973706713927543004
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_67
+  - first:
+      213: -9037018214696709592
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_68
+  - first:
+      213: -2623466025122045889
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_69
+  - first:
+      213: -1264959600105656234
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_70
+  - first:
+      213: 2387981005200080617
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_71
+  - first:
+      213: -105589583393957502
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_72
+  - first:
+      213: 6097367908871826475
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_73
+  - first:
+      213: 8566837398243073902
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_74
+  - first:
+      213: -5923423185666162394
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_75
+  - first:
+      213: 585631653095924830
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_76
+  - first:
+      213: -5597673156024561615
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_77
+  - first:
+      213: -706751874526070996
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_78
+  - first:
+      213: -2738141436252742086
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_79
+  - first:
+      213: -7054444521048154722
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_80
+  - first:
+      213: 2141446511627084096
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_81
+  - first:
+      213: -9143370428090985547
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_82
+  - first:
+      213: -9025646210839210603
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_83
+  - first:
+      213: -4111102388346972018
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_84
+  - first:
+      213: -4424190615446936314
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_85
+  - first:
+      213: -838771669747577458
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_86
+  - first:
+      213: -529378277306491427
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_87
+  - first:
+      213: -9000930229709633075
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_88
+  - first:
+      213: 8455990766961499946
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_89
+  - first:
+      213: -8301875386745784409
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_90
+  - first:
+      213: 7850921450761864260
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_91
+  - first:
+      213: 1787927143310842131
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_92
+  - first:
+      213: 7738972998422727578
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_93
+  - first:
+      213: 7048256740966441339
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_94
+  - first:
+      213: -6094710085978982602
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_95
+  - first:
+      213: -2320872693882596743
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_96
+  - first:
+      213: 6241003316429366307
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 280
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393e6085324716610800000000000000
+      internalID: 1612697836724872083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 281
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75a4f8b5d83d9370800000000000000
+      internalID: 8330877376287516029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 280
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a3e57aaba96c150800000000000000
+      internalID: 5892567288923437596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 281
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa38272ef32ec70800000000000000
+      internalID: 8998825247256063945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 281
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a404890ca927ef0800000000000000
+      internalID: -111856888752092638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 280
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7e3b60193a70c90800000000000000
+      internalID: -7203609235677780038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 280
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e26fee8a091c210800000000000000
+      internalID: 1351520418425876082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 280
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a0dc4a9d3cb3150800000000000000
+      internalID: 5853487480238311967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 256
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0950ad75f36454fb0800000000000000
+      internalID: -4664244601201490544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 95
+        width: 86
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f49b75215a7b3430800000000000000
+      internalID: 3763736402537977079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 232
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecedf8f98b1bd5a90800000000000000
+      internalID: -7323502012525453618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 233
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ce088dd86764760800000000000000
+      internalID: 7441765785871117392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 233
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeedeffc013d35a70800000000000000
+      internalID: 8814620964856717034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 233
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5b28f29903a5ac0800000000000000
+      internalID: -3865723895658924604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 233
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2ceb85621d62a0800000000000000
+      internalID: -6742712839755255992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 233
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990d40d0e27d7690800000000000000
+      internalID: -7602794286038578800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 234
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab4a97b034f4ce0800000000000000
+      internalID: -1418841641033876850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 233
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f3d02d25f8a5e40800000000000000
+      internalID: 5645982668736511793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 184
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d798f5903773e8a0800000000000000
+      internalID: -6277042405066106928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 168
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6653803cf03b4d40800000000000000
+      internalID: 5569599223877555818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 184
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6503a29a1ec136300800000000000000
+      internalID: 244070560339472470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 177
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df77b19f409d6080800000000000000
+      internalID: -9192532592971776042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 185
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705e9d045bd457f0800000000000000
+      internalID: -624633294245441410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 185
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94997901a7bf2c00800000000000000
+      internalID: 878122354637116572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 185
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c279d13af095cb0800000000000000
+      internalID: -4874847928401318775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 185
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ce9040da227dbe0800000000000000
+      internalID: -1452654228311249853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 186
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7f8b7dad1e51bc0800000000000000
+      internalID: -3812893179460913164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 185
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33609ab12bc03980800000000000000
+      internalID: -8561119545906928835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 169
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a784c891b0feca7d0800000000000000
+      internalID: -2905684828608509830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cdddc1f7924c370800000000000000
+      internalID: 8341838035718888587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae1a18be748bab80800000000000000
+      internalID: -8382460601630581088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 178
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a96d6d949aaca40800000000000000
+      internalID: 5389306038704315031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 137
+        width: 258
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c459571670d815fe0800000000000000
+      internalID: -1202024562691828404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7088207f97ab78610800000000000000
+      internalID: 1623471223688300551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 152
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce0c24375d921d0800000000000000
+      internalID: -3374931754719580931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2d9aa30c40efcd0800000000000000
+      internalID: -2522573517616459069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd3e5eea46e1b80800000000000000
+      internalID: -8422183550792246193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 110
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c01b92b96d97860800000000000000
+      internalID: 7528284214034238575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 110
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967ae93c180cda490800000000000000
+      internalID: -7733313321560004759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 13
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa20ec31590cd2f50800000000000000
+      internalID: 6858349554070061743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 258
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fa82f16e0408510800000000000000
+      internalID: 1549309628924866398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 43
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c488a85aef6f17760800000000000000
+      internalID: 7454010431834327116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed0de39c7d25e7c0800000000000000
+      internalID: -4042775077414171154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 42
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1958a2101909ca3e0800000000000000
+      internalID: -2041097578641455727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 41
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab05b356c546e7e0800000000000000
+      internalID: -1736623888194532437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_45
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 50
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841fa147de93aec90800000000000000
+      internalID: -7139830567224544952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 52
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169f4d4ba9058f3a0800000000000000
+      internalID: -6631461825914013343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 48
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcdd929a45c421e0800000000000000
+      internalID: -2223435391936111404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 46
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6624d8d25974beaf0800000000000000
+      internalID: -366120238660631962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552961863f0a0510800000000000000
+      internalID: 1516040951337395551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 258
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0a76d7debc45b80800000000000000
+      internalID: -8406870383522242390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 45
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eab5f2648c6dea30800000000000000
+      internalID: 4246169339531999973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6269927e3a55c6346b4f326855aec9a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_0: 1612697836724872083
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_1: 8330877376287516029
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_10: -7323502012525453618
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_11: 7441765785871117392
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_12: 8814620964856717034
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_13: -3865723895658924604
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_14: -6742712839755255992
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_15: -7602794286038578800
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_16: -1418841641033876850
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_17: 5645982668736511793
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_18: -6277042405066106928
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_19: 5569599223877555818
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_2: 5892567288923437596
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_20: 244070560339472470
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_21: -9192532592971776042
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_22: -624633294245441410
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_23: 878122354637116572
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_24: -4874847928401318775
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_25: -1452654228311249853
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_26: -3812893179460913164
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_27: -8561119545906928835
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_28: -2905684828608509830
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_29: 8341838035718888587
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_3: 8998825247256063945
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_30: -8382460601630581088
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_31: 5389306038704315031
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_32: -1202024562691828404
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_33: 1623471223688300551
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_34: -3374931754719580931
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_35: -2522573517616459069
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_36: -8422183550792246193
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_37: 7528284214034238575
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_38: -7733313321560004759
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_39: 6858349554070061743
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_4: -111856888752092638
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_40: 1549309628924866398
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_41: 7454010431834327116
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_42: -4042775077414171154
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_43: -2041097578641455727
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_44: -1736623888194532437
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_45: -7139830567224544952
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_46: -6631461825914013343
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_47: -2223435391936111404
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_48: -366120238660631962
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_49: 1516040951337395551
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_5: -7203609235677780038
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_50: -8406870383522242390
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_51: 4246169339531999973
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_6: 1351520418425876082
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_7: 5853487480238311967
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_8: -4664244601201490544
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Marisa Kirisame_9: 3763736402537977079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,10 +10,13 @@ GameObject:
   m_Component:
   - component: {fileID: 4973851839752503284}
   - component: {fileID: 6431439227713737459}
+  - component: {fileID: 4011118506705842167}
+  - component: {fileID: 359078541794916241}
   - component: {fileID: -2669880860941313773}
   - component: {fileID: -8454557257864824382}
   - component: {fileID: -4316038748174530919}
   - component: {fileID: -3768515965314504741}
+  - component: {fileID: 7142962407559930559}
   m_Layer: 0
   m_Name: HakureiReimuCharacter
   m_TagString: Untagged
@@ -80,8 +83,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Sprite: {fileID: 1165942949498587634, guid: 0ad6d1917cab0b74ab1a1b4275bbff42, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -91,6 +94,44 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &4011118506705842167
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8988488171511953299}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c0848904284a23c4eae82902d44be9f6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &359078541794916241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8988488171511953299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5862aaa66724eba47ba9b8e5f0d22657, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idleParameterName: IsIdle
+  moveLeftParameterName: IsMovingLeft
+  moveRightParameterName: IsMovingRight
+  directionChangeTransitionSpeed: 0.01
 --- !u!114 &-2669880860941313773
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GlobalObjectIdHash: 1593192284
-  InScenePlacedSourceGlobalObjectIdHash: 0
+  InScenePlacedSourceGlobalObjectIdHash: 1593192284
   DeferredDespawnTick: 0
   Ownership: 1
   AlwaysReplicateAsRoot: 0
@@ -192,5 +233,19 @@ MonoBehaviour:
   bulletColor: {r: 0.5660378, g: 0.005602005, b: 0, a: 1}
   bulletsPerShot: 2
   bulletSpread: 0.5
-  bulletSpacing: 0.8
-  fireRate: 0.05
+  shotsPerPress: 3
+  shotDelay: 0.02
+--- !u!114 &7142962407559930559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8988488171511953299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e7229b2b2dca6349ad726047f67ba9b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  hitboxPrefab: {fileID: 4423368984822014348, guid: bb4cc2967ba9bb747b62124f1ba1e849, type: 3}

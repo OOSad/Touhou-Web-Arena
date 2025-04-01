@@ -15,17 +15,11 @@ public class PlayerShooter : NetworkBehaviour
     [SerializeField] private int bulletsPerShot = 2;        // Side-by-side bullets (pairs)
     [SerializeField] private float bulletSpread = 0.4f;     // Horizontal distance between bullet pairs
     [SerializeField] private int shotsPerPress = 3;         // Number of shots fired per Z press
-    [SerializeField] private float shotDelay = 0.05f;       // Delay between shots in a burst
-    
-    [Header("Rapid Fire Detection")]
-    [SerializeField] private float rapidFireThreshold = 0.3f;   // Time window to detect rapid presses
-    [SerializeField] private float continuousShotDelay = 0.06f; // Delay between shots during continuous fire
+    [SerializeField] private float shotDelay = 0.02f;       // Delay between shots in a burst
     
     // Internal variables
     private float nextFireTime;
-    private float lastPressTime;
     private bool isFiring;
-    private bool isRapidFiring;
     private Coroutine firingCoroutine;
     
     public override void OnNetworkSpawn()
@@ -39,24 +33,10 @@ public class PlayerShooter : NetworkBehaviour
         if (!IsOwner) return;
         
         // Check for fire button tap (Z key)
-        if (Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKeyDown(KeyCode.Z) && Time.time >= nextFireTime && !isFiring)
         {
-            float timeSinceLastPress = Time.time - lastPressTime;
-            lastPressTime = Time.time;
-            
-            // If currently firing, and the press was rapid, switch to continuous mode
-            if (isFiring && timeSinceLastPress < rapidFireThreshold)
-            {
-                isRapidFiring = true;
-                // No need to start a new coroutine, the existing one will adjust
-            }
-            // Otherwise start a new firing sequence if not in cooldown
-            else if (Time.time >= nextFireTime && !isFiring)
-            {
-                isRapidFiring = false;
-                FireBurstServerRpc();
-                nextFireTime = Time.time + rapidFireThreshold; // Smaller cooldown to allow rapid fire detection
-            }
+            FireBurstServerRpc();
+            nextFireTime = Time.time + (shotDelay * shotsPerPress); // Simple cooldown based on burst duration
         }
     }
     
@@ -83,38 +63,17 @@ public class PlayerShooter : NetworkBehaviour
     private IEnumerator FireBurstRoutine()
     {
         isFiring = true;
-        int shotsFired = 0;
         
-        while (true)
+        // Fire the specified number of shots
+        for (int i = 0; i < shotsPerPress; i++)
         {
             // Fire a bullet pair
             FireBulletPair();
-            shotsFired++;
             
-            // Determine which delay to use based on firing mode
-            float currentDelay = isRapidFiring ? continuousShotDelay : shotDelay;
-            
-            // Wait the appropriate delay
-            yield return new WaitForSeconds(currentDelay);
-            
-            // If not in rapid fire mode and we've fired enough shots, exit
-            if (!isRapidFiring && shotsFired >= shotsPerPress)
+            // Wait between shots
+            if (i < shotsPerPress - 1) // Don't wait after the last shot
             {
-                break;
-            }
-            
-            // If in rapid fire mode, check if we should continue
-            if (isRapidFiring && Time.time - lastPressTime > rapidFireThreshold)
-            {
-                // Player hasn't pressed Z recently, end the continuous stream
-                isRapidFiring = false;
-                
-                // If we've already fired at least the minimum shots, exit
-                if (shotsFired >= shotsPerPress)
-                {
-                    break;
-                }
-                // Otherwise, continue until minimum shots are fired
+                yield return new WaitForSeconds(shotDelay);
             }
         }
         

@@ -1,0 +1,1466 @@
+fileFormatVersion: 2
+guid: 0ad6d1917cab0b74ab1a1b4275bbff42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1165942949498587634
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_0
+  - first:
+      213: 1878070061778003844
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_1
+  - first:
+      213: -7578908527205203755
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_2
+  - first:
+      213: -3873636997069308894
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_3
+  - first:
+      213: -503962532970326467
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_4
+  - first:
+      213: 7019688355829099567
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_5
+  - first:
+      213: -9023972500088962312
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_6
+  - first:
+      213: -712042029284570088
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_7
+  - first:
+      213: -5060678176572834251
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_8
+  - first:
+      213: -3103815593812237502
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_9
+  - first:
+      213: -4125109703283759256
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_10
+  - first:
+      213: -3659415563469713110
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_11
+  - first:
+      213: 8962398129958839334
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_12
+  - first:
+      213: 7412111115135619821
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_13
+  - first:
+      213: 2631698491291278255
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_14
+  - first:
+      213: 8317020068753442722
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_15
+  - first:
+      213: -9072536184218581274
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_16
+  - first:
+      213: -3189921997321433137
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_17
+  - first:
+      213: -1802954089199028773
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_18
+  - first:
+      213: -4968840987015681990
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_19
+  - first:
+      213: 3026699228740736788
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_20
+  - first:
+      213: -8341945503720087838
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_21
+  - first:
+      213: 541261139336603927
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_22
+  - first:
+      213: 8436479507724882540
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_23
+  - first:
+      213: -6214416240063689807
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_24
+  - first:
+      213: 3410450403077843634
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_25
+  - first:
+      213: 3075423944362750548
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_26
+  - first:
+      213: -3246266005465363563
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_27
+  - first:
+      213: -6273700671983051099
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_28
+  - first:
+      213: -7526516059197852301
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_29
+  - first:
+      213: -8708530028625565695
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_30
+  - first:
+      213: 9198563655420702017
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_31
+  - first:
+      213: 2805498094100473317
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_32
+  - first:
+      213: -7344027537105248
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_33
+  - first:
+      213: 1399135774053046264
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_34
+  - first:
+      213: 1861623688192361736
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_35
+  - first:
+      213: -2059122736333714396
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_36
+  - first:
+      213: -8079432952721546222
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_37
+  - first:
+      213: -2933984959546523943
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_38
+  - first:
+      213: 4083259240465677924
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_39
+  - first:
+      213: -8317244585520599264
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_40
+  - first:
+      213: 1181120405180975329
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_41
+  - first:
+      213: 2873824195661444064
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_42
+  - first:
+      213: 736060443161720012
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_43
+  - first:
+      213: 4400955114910459765
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_44
+  - first:
+      213: 1663265245388508703
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_45
+  - first:
+      213: -5528243467005968385
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_46
+  - first:
+      213: -6305981430077540895
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_47
+  - first:
+      213: -6316191023669614051
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_48
+  - first:
+      213: -6549509300323711041
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_49
+  - first:
+      213: -6623732889628978520
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_50
+  - first:
+      213: -2647782818846572672
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_51
+  - first:
+      213: -2075526963802959417
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_52
+  - first:
+      213: 2455401730451403180
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_53
+  - first:
+      213: 8381720926701065830
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_54
+  - first:
+      213: 8234819861500379049
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_55
+  - first:
+      213: -4798656339210665493
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_56
+  - first:
+      213: -6115587104580635391
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_57
+  - first:
+      213: 897871757548166501
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_58
+  - first:
+      213: -540892458961095669
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_59
+  - first:
+      213: -776321581779222279
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_60
+  - first:
+      213: 4002538943787916032
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_61
+  - first:
+      213: -4988069496322929140
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_62
+  - first:
+      213: -667399779953699206
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_63
+  - first:
+      213: -4953461133426289971
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_64
+  - first:
+      213: 2848898467656819653
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_65
+  - first:
+      213: -749693965114695234
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_66
+  - first:
+      213: -7084077957121570263
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_67
+  - first:
+      213: 7574170404512786130
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_68
+  - first:
+      213: -7212724511969878966
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_69
+  - first:
+      213: 8963410372486702386
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_70
+  - first:
+      213: -3410113131354072456
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_71
+  - first:
+      213: 6326530858399078959
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_72
+  - first:
+      213: -2549590139478002080
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_73
+  - first:
+      213: -905109396423799320
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_74
+  - first:
+      213: -5706674734195561339
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_75
+  - first:
+      213: -8738588947420970078
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_76
+  - first:
+      213: -7025610726605537580
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_77
+  - first:
+      213: -4666756159433208309
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_78
+  - first:
+      213: -5634640191863547093
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_79
+  - first:
+      213: 8025392892222296413
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_80
+  - first:
+      213: -8198927907664839182
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_81
+  - first:
+      213: -7556590500881684382
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_82
+  - first:
+      213: 3278322883451440784
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_83
+  - first:
+      213: 5134028960247323323
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_84
+  - first:
+      213: 4783846253424068669
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_85
+  - first:
+      213: 1166122438190185984
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_86
+  - first:
+      213: 60580426677449754
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_87
+  - first:
+      213: -8495184921428332568
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_88
+  - first:
+      213: 4714623120014355669
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_89
+  - first:
+      213: -1947315989132421491
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_90
+  - first:
+      213: 1862412330862876554
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_91
+  - first:
+      213: -7751621489279298456
+    second: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 218
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90c356fe24e2010800000000000000
+      internalID: 1165942949498587634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 218
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487e29f45ce301a10800000000000000
+      internalID: 1878070061778003844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 219
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d041ca69de42d690800000000000000
+      internalID: -7578908527205203755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 219
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c7fd0bca31e3ac0800000000000000
+      internalID: -3873636997069308894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 218
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3692321fb09109f0800000000000000
+      internalID: -503962532970326467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 219
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ca3232e51fa6160800000000000000
+      internalID: 7019688355829099567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 218
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2cd4d72d864c280800000000000000
+      internalID: -9023972500088962312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 219
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c48530c815e16f0800000000000000
+      internalID: -712042029284570088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 203
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53efdc2d20cd4c9b0800000000000000
+      internalID: -5060678176572834251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 170
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666997a46cad15470800000000000000
+      internalID: 8381720926701065830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 171
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afbf0ab805f74270800000000000000
+      internalID: 8234819861500379049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 172
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10c2edb7fb76db0800000000000000
+      internalID: -4798656339210665493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_57
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 172
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f28e1ee1112ba0800000000000000
+      internalID: -6115587104580635391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 172
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d938a3b91e57c00800000000000000
+      internalID: 897871757548166501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_59
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 171
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04bfe1ac2d5e78f0800000000000000
+      internalID: -540892458961095669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 171
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0849e62a3f935f0800000000000000
+      internalID: -776321581779222279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_61
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 171
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b552886ffdb8730800000000000000
+      internalID: 4002538943787916032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_62
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 122
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ec5b49831d6cab0800000000000000
+      internalID: -4988069496322929140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 123
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a769fa8af6becb6f0800000000000000
+      internalID: -667399779953699206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_64
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 123
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc21c6df755c14bb0800000000000000
+      internalID: -4953461133426289971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_65
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 124
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3e6ddef02598720800000000000000
+      internalID: 2848898467656819653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 124
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1a51f8f4d8895f0800000000000000
+      internalID: -749693965114695234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 123
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a089c81ac40bd90800000000000000
+      internalID: -7084077957121570263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 123
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6e24d6adbdc1960800000000000000
+      internalID: 7574170404512786130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_69
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 123
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c5841654147eb90800000000000000
+      internalID: -7212724511969878966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_70
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 9
+        width: 178
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2352f1c5e3e646c70800000000000000
+      internalID: 8963410372486702386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_71
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 15
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87adeb1bc28dca0d0800000000000000
+      internalID: -3410113131354072456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 107
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a9c6bdb4a5cc750800000000000000
+      internalID: 6326530858399078959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 105
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0663395c6490e9cd0800000000000000
+      internalID: -2549590139478002080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_74
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 105
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed8a47acc76073f0800000000000000
+      internalID: -905109396423799320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 88
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ca3938091ddc0b0800000000000000
+      internalID: -5706674734195561339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_76
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a381deb6ab4ab680800000000000000
+      internalID: -8738588947420970078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 66
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb0867444008e90800000000000000
+      internalID: -7025610726605537580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 106
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e0e9f9ff95c3fb0800000000000000
+      internalID: -4666756159433208309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b95de599cbdc1b0800000000000000
+      internalID: -5634640191863547093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 90
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51dadba05cef5f60800000000000000
+      internalID: 8025392892222296413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 89
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb99cf18e873e80800000000000000
+      internalID: -8198927907664839182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_82
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682bd9d9f8912790800000000000000
+      internalID: -7556590500881684382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 91
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e482f0b41fe7d20800000000000000
+      internalID: 3278322883451440784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 75
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba1c1a532cbf3740800000000000000
+      internalID: 5134028960247323323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_85
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38cc6352d2a36240800000000000000
+      internalID: 4783846253424068669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_86
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 74
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e30fcdd26ee2010800000000000000
+      internalID: 1166122438190185984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 46
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14737cb39937d000800000000000000
+      internalID: 60580426677449754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 46
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef6209c25a0b1a80800000000000000
+      internalID: -8495184921428332568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 123
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcac4e9fb4bd6140800000000000000
+      internalID: 4714623120014355669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86d25adc6eb9f4e0800000000000000
+      internalID: -1947315989132421491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87936eb52e98d910800000000000000
+      internalID: 1862412330862876554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_92
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 17
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864193a4355bc6490800000000000000
+      internalID: -7751621489279298456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 764fa55a14992694daa7f33f1bfc7b38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Touhou Kikeijuu Wily Beast and Weakest Creature - Reimu Hakurei_9: 1031848896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
