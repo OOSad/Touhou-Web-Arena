@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "com.gamelovers.mcp-unity": {
+      "version": "https://github.com/CoderGamester/mcp-unity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.editorcoroutines": "1.0.0"
+      },
+      "hash": "3c8eebcbe7419423ce5a4c7e081b71f57745e18b"
+    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,
@@ -121,6 +131,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.editorcoroutines": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ext.nunit": {
       "version": "2.0.5",
       "depth": 1,
@@ -142,6 +159,15 @@
         "com.unity.2d.tilemap.extras": "4.1.0",
         "com.unity.2d.aseprite": "1.1.8"
       }
+    },
+    "com.unity.ide.cursor": {
+      "version": "https://github.com/boxqkrtm/com.unity.ide.cursor.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.9"
+      },
+      "hash": "2c0153a9bab1abc783e5599fa2d2cc3c69d5e389"
     },
     "com.unity.ide.rider": {
       "version": "3.0.31",
