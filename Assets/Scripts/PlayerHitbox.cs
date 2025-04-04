@@ -75,8 +75,9 @@ public class PlayerHitbox : NetworkBehaviour
     }
     
     // Clean up when destroyed
-    void OnDestroy()
+    public override void OnDestroy()
     {
+        base.OnDestroy(); // Call the parent method first
         if (hitboxInstance != null)
         {
             Destroy(hitboxInstance);
