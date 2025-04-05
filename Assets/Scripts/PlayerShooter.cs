@@ -1,6 +1,6 @@
 using UnityEngine;
 using Unity.Netcode;
-using DanmakU;
+// using DanmakU;
 using System.Collections;
 
 public class PlayerShooter : NetworkBehaviour
